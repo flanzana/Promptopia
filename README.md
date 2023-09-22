@@ -1,6 +1,21 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Promptopia
+
+Promptopia a modern full-stack Next 13 application. Full course is available on [Youtube link](https://www.youtube.com/watch?v=wm5gMKuwSYk).
+
+## Tasks in this project
+
+- [ ] Set up providers and next-auth
+- [ ] Implement Create post
+- [ ] Implement Feed on home page
+- [ ] Implement Profile with list of all posts
+- [ ] Implement Update prompt
+- [ ] Implement Search on home page (search by prompt, search by tag, search by username)
+- [ ] Implement Click on tag
+- [ ] Implement View other profiles
 
 ## Getting Started
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
@@ -14,16 +29,17 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+You can start editing the page by modifying `app/page.jsx`. The page auto-updates as you edit the file.
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
 ## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+To learn more a bout Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [When to use server and client components](https://nextjs.org/docs/app/building-your-application/rendering/composition-patterns#when-to-use-server-and-client-components)
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
